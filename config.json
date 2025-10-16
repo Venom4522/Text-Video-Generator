@@ -1,0 +1,24 @@
+{
+  "video": {
+    "frame_size": [720, 1280],
+    "fps": 24,
+    "duration": 5,
+    "background_color": [0, 0, 0]
+  },
+  "text": {
+    "font_path": "",
+    "font_size": 70,
+    "author_font_size": 40,
+    "font_color": [255, 255, 255],
+    "margin": 60,
+    "line_spacing": 15,
+    "author_spacing": 30,
+    "text_align": "center",
+    "vertical_pos": "middle"
+  },
+  "paths": {
+    "assets": "assets",
+    "output": "output"
+  }
+}
+
